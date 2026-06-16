@@ -58,9 +58,6 @@ Key techniques:
 * Exploratory Data Analysis
 * Factor Analysis
 
-## Report
-
-👉 [Open the full project report](./Laura_Apicella_AdvancedStats_exam.pdf)
 
 
 
