@@ -12,7 +12,7 @@ The analyses include:
 
   ## Report
 
-👉 [Open the full project report](./Laura_Apicella_AdvancedStats_exam.pdf)
+👉 [Open the full project report](./Laura_Apicella_AdvancedStats.pdf)
 
 ## Project Contents
 
@@ -59,5 +59,5 @@ Key techniques:
 * Factor Analysis
 
 
-👉 [Open the full project report](./Laura_Apicella_AdvancedStats_exam.pdf)
+👉 [Open the full project report](./Laura_Apicella_AdvancedStats.pdf)
 
