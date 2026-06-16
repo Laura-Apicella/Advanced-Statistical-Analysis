@@ -59,6 +59,5 @@ Key techniques:
 * Factor Analysis
 
 
+👉 [Open the full project report](./Laura_Apicella_AdvancedStats_exam.pdf)
 
-
-📄 [Open the complete report](./AdvancedStats.pdf)
